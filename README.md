@@ -1,7 +1,5 @@
-### Hello there 
+### Hello there ###
 
-<!--
-**ChrstnCrrnd/ChrstnCrrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I like writing code and stuff. 
 Im currently working on a space invaders rip off in java.
