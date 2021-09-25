@@ -4,7 +4,7 @@ I am bad at coding.
 
 MIT open sauce. feel free to use me for whatever you want ;)
 
-My ![website](https://chrstncrrnd.github.io)
+My [website](https://chrstncrrnd.github.io)
 
 anyway sorry for wasting your time reading this.
 
