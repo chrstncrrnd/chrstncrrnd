@@ -18,6 +18,10 @@
 ![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-- 🚀 I am currently working on a mobile application in Flutter and Dart
+- 🚀 Working on a mobile app in Flutter and Dart
 - 🤖 Currently learning about AI and Deep learning
 - 👷 Open for web development jobs
+
+My proudest (open source) work: 
+- [Area attackers](https://github.com/chrstncrrnd/area-attackers)
+- [Rust email collector](https://github.com/chrstncrrnd/email-collector-rs)
